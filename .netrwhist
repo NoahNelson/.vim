@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/noah/Documents/GraphSwift/Sources'
+let g:netrw_dirhist_2='/home/noah/Documents/Jonathan/Sources'
+let g:netrw_dirhist_3='/home/noah'
